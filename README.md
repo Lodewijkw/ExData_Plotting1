@@ -1,3 +1,7 @@
+# Assignment by Lodewijk
+You must run the R scripts in the logical order (1, 2, 3, 4) for the plots to work.
+This is because they do not all contain the read.csv command an right subsetting commands
+
 ## Introduction
 
 This assignment uses data from
